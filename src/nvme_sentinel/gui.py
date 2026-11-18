@@ -28,16 +28,6 @@ headerbar, AdwHeaderBar {
     color: #fff7ed;
     min-height: 42px;
 }
-windowcontrols button {
-    min-width: 18px;
-    min-height: 18px;
-    padding: 2px;
-    margin: 0 2px;
-    border-radius: 9999px;
-}
-windowcontrols button image {
-    -gtk-icon-size: 12px;
-}
 .nameplate {
     background: #131317;
     border: 1px solid rgba(251, 146, 60, 0.28);
